@@ -1,0 +1,4 @@
+How big does a network have to be for the multimodal neuron to emerge? not that many! (not GPT-N sized anyhow),
+"As a base size we use a 63M-parameter 12-layer 512-wide model with 8 attention heads."
+
+Big implications to how high the computational bar is for true intelligence in my opinion
